@@ -20,7 +20,7 @@ The app was developed within a **4-day sprint** according to specific test task 
 * Pagination
 * 4 screens with different elements
 * Separate network service
-* Basic Error handling
+* User-friendly error handling
 * Basic dependency injection
 * Minimum dependencies: Alamofire & Kingfisher
 * Localization
